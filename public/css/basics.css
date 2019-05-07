@@ -1,0 +1,13 @@
+@font-face {
+	font-family: CambiloFont;
+	src: url(fonts/Amaranth-Regular.woff);
+}
+body{
+	font-family: CambiloFont;
+}
+.page .banner{
+	background: url('../../images/bg_1.jpg');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
